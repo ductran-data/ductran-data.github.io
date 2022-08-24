@@ -10,6 +10,6 @@ redirect_from:
 
 Hi! A short and nice intro to be added.
 
-Recent updates
+<span style="color: orangered;">Updates</span>
 ------
 Recent papers that become available online.
