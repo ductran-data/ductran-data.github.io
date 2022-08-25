@@ -16,7 +16,7 @@ My studies have been published in *World Development*, *Food Policy*, and *Econo
 I regularly conduct household surveys and randomized controlled trials to collect primary data for research.
 Field surveys and experiments are indeed my major interest as I appreciate the experiences with local people. 
 I also apply causal inference methods to secondary surveys and remote sensing data.
-Learning how to cleverly use different data formats is such an intriguing and rewarding journey for me.
+Learning how to cleverly use different data formats is such a rewarding journey for me.
 
 
 <span style="color: orangered;">Updates</span>
