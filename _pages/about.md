@@ -20,5 +20,5 @@ My studies have been published in *World Development*, *Food Policy*, and *Econo
 
 <span style="color: orangered;">Updates</span>
 ------
-My recent work with Binaya Chalise and Kaneko Shinji  [''Blessing of the moon: cultural beliefs, birth timing and child health in Nepal''](https://www.tandfonline.com/doi/abs/10.1080/13691058.2022.2111466?journalCode=tchs20) has been published at *Culture, Health & Sexuality*.
+My recent work with Binaya Chalise and Kaneko Shinji  ["Blessing of the moon: cultural beliefs, birth timing and child health in Nepal"](https://www.tandfonline.com/doi/abs/10.1080/13691058.2022.2111466?journalCode=tchs20) has been published at *Culture, Health & Sexuality*.
 Email me if you want an early e-print of this study.
