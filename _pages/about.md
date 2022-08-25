@@ -12,10 +12,11 @@ Hi! I am a **Development Economist** applying **causal inference** to quantify t
 I am now an Assistant Professor at [International Economic Development Program](https://www.hiroshima-u.ac.jp/en/gshs/staff/InternationalEconomicDevelopmentP), Graduate School for Humanities and Social Sciences, [Hiroshima University](https://www.hiroshima-u.ac.jp/en).
 
 My research focuses on policies for sustainable development in agriculture and rural areas.
-I regularly conduct household surveys and randomized controlled trials to obtain primary data for research.
-Field surveys and experiments are my major interest as I appreciate the experiences with local people. 
-Besides, I also apply causal inference methods to secondary surveys and remote sensing data.
 My studies have been published in *World Development*, *Food Policy*, and *Economic Analysis and Policies*.
+I regularly conduct household surveys and randomized controlled trials to collect primary data for research.
+Field surveys and experiments are indeed my major interest as I appreciate the experiences with local people. 
+I also apply causal inference methods to secondary surveys and remote sensing data.
+Learning how to cleverly use different data formats is such an intriguing and rewarding journey for me.
 
 
 <span style="color: orangered;">Updates</span>
