@@ -18,4 +18,4 @@ author_profile: true
 
 "Impacts of sustainability certification on farm income: Evidence from small-scale specialty green tea farmers in Vietnam"
 ------
-With Daisaku Goto. *Food Policy*. Feb, 2019. Vol.83, pp 70--82. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S030691921830441X)
+Duc Tran, Daisaku Goto. 2019. *Food Policy*, Vol.83, pp 70--82. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S030691921830441X)
