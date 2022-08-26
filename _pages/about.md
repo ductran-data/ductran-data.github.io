@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a **Development Economist** applying **causal inference** to quantify the impacts of development policies.
+I am a **Development Economist** applying **causal inference** to quantify the impacts of development policies.
 I am now an Assistant Professor at [International Economic Development Program](https://www.hiroshima-u.ac.jp/en/gshs/staff/InternationalEconomicDevelopmentP), Graduate School for Humanities and Social Sciences, [Hiroshima University](https://www.hiroshima-u.ac.jp/en).
 
 My research focuses on policies for sustainable development in agriculture and rural areas.
