@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="http://docs.google.com/gview?url=https://academicpages.github.io/files/CV_DucTran.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<object data="https://academicpages.github.io/files/CV_DucTran.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://academicpages.github.io/files/CV_DucTran.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://academicpages.github.io/files/CV_DucTran.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 [Click here](https://academicpages.github.io/files/CV_DucTran.pdf) to download a PDF copy of my CV
