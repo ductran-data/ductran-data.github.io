@@ -1,11 +1,11 @@
 ---
 title: "Impacts of sustainability certification on farm income: Evidence from small-scale specialty green tea farmers in Vietnam"
-collection: publications
+# collection: publications
 # permalink: /publication/2009-10-01-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-# date: 2009-10-01
+date: 2019-02
 # venue: 'Journal 1'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-With Daisaku Goto. *Food Policy*. Vol.83, pp 70--82.
+With Daisaku Goto. *Food Policy*. Vol.83, pp 70--82. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S030691921830441X)
